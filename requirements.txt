@@ -1,0 +1,8 @@
+torch
+torch-geometric
+torch-scatter
+torch-sparse
+torch-cluster
+torch-spline-conv
+numpy
+scikit-learn
