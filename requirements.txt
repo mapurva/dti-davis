@@ -7,3 +7,5 @@ torch-spline-conv
 numpy
 scikit-learn
 rdkit-pypi
+matplotlib
+
